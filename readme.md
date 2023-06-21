@@ -1,0 +1,1 @@
+This repo contains all the practicals done during Compiler Design Lab
